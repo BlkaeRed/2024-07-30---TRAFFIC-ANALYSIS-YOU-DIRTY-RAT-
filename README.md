@@ -32,7 +32,7 @@ At first I brifly scanned through to understand what I will be dealing with. I s
 Executive Summary:
 
 On 30 July 2024 around 2:40 UTC PC of user Clark Collier was infected with STRRAT malware
-
+_________________________________________________________________________________________
 
 Victim Details:
 
@@ -43,7 +43,7 @@ Hostname: DESKTOP-SKBR25F
 MAC address: 00:1e:64:ec:f3:08
 
 Windows user account name: ccollier (previously I incorrectly wrote desktop-skbr25f)
-
+____________________________________________________________________________________
 
 Indicators of compromise (IOCs)
 
